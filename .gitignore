@@ -1,0 +1,8 @@
+venv/
+*.pyc
+__pycache__/
+*.h5
+*.pptx
+object_tracking_dataset/
+pen_pencil_dataset/
+processed_dataset/ 
