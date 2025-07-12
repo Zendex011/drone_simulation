@@ -2,6 +2,11 @@
 
 This project simulates a drone in a 3D environment using PyBullet and allows control via object detection (pen, pencil, mechanical pen) and hand gestures. The simulation uses a webcam for real-time input and a custom-trained CNN model for object recognition.
 
+## Demo
+You can watch a demo video of the project here:
+- [Demo Video 1](https://drive.google.com/file/d/1jwWqG-SREtZ30eZMcciQe1JClYtk2iJe/view?usp=drivesdk)
+- [Demo Video 2](https://drive.google.com/file/d/1jwWqG-SREtZ30eZMcciQe1JClYtk2iJe/view?usp=drivesdk)
+
 ## Main Features
 - **Object Tracking:** The drone follows a specified object (e.g., pen) detected in the webcam feed.
 - **Gesture Control:** Control the drone using hand gestures (requires gesture_control module).
